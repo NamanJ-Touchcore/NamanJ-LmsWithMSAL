@@ -1,0 +1,90 @@
+import { HttpResponse } from '@angular/common/http';
+import { Component, Input, OnInit, ViewChild } from '@angular/core';
+import { MatPaginator } from '@angular/material/paginator';
+import { MatSort } from '@angular/material/sort';
+import { MatTableDataSource } from '@angular/material/table';
+import { BookService } from 'src/app/services/book.service';
+import { ProfileService } from 'src/app/services/profile.service';
+import { SharedService } from 'src/app/services/shared.service';
+import { issueDetails } from '../../models/issueDetails';
+
+@Component({
+  selector: 'app-show-book',
+  templateUrl: './show-books.component.html',
+  styleUrls: ['./show-books.component.css']
+})
+
+export class ShowBooksStudentComponent implements OnInit {
+
+  @ViewChild('paginator') paginator!: MatPaginator;
+  @ViewChild(MatSort) matSort!: MatSort;
+
+  BookList!: MatTableDataSource<any>;
+  availableBooks: string[] = ['bId', 'bName', 'bAuthor', 'bQuantity', 'Request'];
+  book!: any;
+  isEmpty = false;
+  uName!: string;
+
+  constructor(private service: SharedService, private bookService: BookService, private profileService: ProfileService) { }
+
+  ngOnInit(): void {
+    this.refreshBookList();
+    this.getUserName();
+  }
+
+  requestBook(item: any) {
+    this.book = item;
+
+    if (this.book.bQuantity >= 1) {
+      var details: issueDetails = {
+        uName: this.uName,
+        bId: this.book.bId,
+        status: 'pending'
+      };
+
+      try {
+        this.bookService.requestBook(details).subscribe((res) => {
+          this.service.SnackBarSuccessMessage(JSON.stringify(res));
+        }, err => {
+          this.service.SnackBarErrorMessage(JSON.stringify(err.error));
+        });
+      } catch (error: any) {
+        this.service.SnackBarErrorMessage(JSON.stringify(error));
+      }
+    } else {
+      this.service.SnackBarErrorMessage("Out of stock!")
+    }
+    this.refreshBookList();
+  }
+
+  refreshBookList() {
+    try {
+      this.bookService.getBookList().subscribe((data) => {
+        data.length == 0 ? this.isEmpty = true : this.isEmpty = false;
+        this.BookList = new MatTableDataSource(data);
+        this.BookList.paginator = this.paginator;
+        this.BookList.sort = this.matSort;
+      }, err => {
+        this.service.SnackBarErrorMessage(JSON.stringify(err.message));
+      });
+    } catch (error: any) {
+      this.service.SnackBarErrorMessage(JSON.stringify(error));
+    }
+  }
+
+  filterData($event: any) {
+    this.BookList.filter = $event.target.value;
+  }
+
+  getUserName() {
+    try {
+      this.profileService.getUserProfile().subscribe(res => {
+        this.uName = res.userPrincipalName;
+      }, err => {
+        this.service.SnackBarErrorMessage(JSON.stringify(err.error));
+      })
+    } catch (error: any) {
+      this.service.SnackBarErrorMessage(JSON.stringify(error));
+    }
+  }
+}

@@ -1,0 +1,21 @@
+<div class="card-wrapper">
+    <mat-card class="card">
+        <mat-card-title class="text-center">User Details</mat-card-title>
+        <mat-card-content>
+            <mat-list>
+                <mat-list-item class="font-weight-bold">
+                    User Name : {{userDetails?.userPrincipalName}}
+                </mat-list-item>
+                <mat-list-item class="font-weight-bold">
+                    Full Name : {{userDetails?.displayName}}
+                </mat-list-item>
+                <mat-list-item class="font-weight-bold">
+                    Job Title : {{userDetails?.jobTitle}}
+                </mat-list-item>
+                <mat-list-item class="font-weight-bold">
+                    Mobile : {{userDetails?.mobilePhone}}
+                </mat-list-item>
+            </mat-list>
+        </mat-card-content>
+    </mat-card>
+</div>

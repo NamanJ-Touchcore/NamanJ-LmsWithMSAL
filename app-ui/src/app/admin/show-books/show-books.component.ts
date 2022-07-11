@@ -1,0 +1,87 @@
+import { Component, OnInit, ViewChild } from '@angular/core';
+import { MatTableDataSource } from '@angular/material/table'
+import { MatPaginator } from '@angular/material/paginator';
+import { MatSort } from '@angular/material/sort';
+import { SharedService } from 'src/app/services/shared.service';
+import { BookService } from 'src/app/services/book.service';
+
+@Component({
+  selector: 'app-show-books',
+  templateUrl: './show-books.component.html',
+  styleUrls: ['./show-books.component.css'],
+})
+export class ShowBooksAdminComponent implements OnInit {
+
+  constructor(private service: SharedService, private bookService: BookService) { }
+
+  BookList!: MatTableDataSource<any>;
+  availableBooks: string[] = ['bId', 'bName', 'bAuthor', 'bQuantity', 'Edit', 'Delete'];
+
+  @ViewChild('paginator') paginator!: MatPaginator;
+  @ViewChild(MatSort) matSort!: MatSort;
+
+  ModalTitle: string = '';
+  ActivateAddEditBookComp: boolean = false;
+  book: any;
+  isEmpty = false;
+
+  ngOnInit(): void {
+    this.refreshBookList();
+  }
+
+  addClick() {
+    this.book = {
+      bId: 0,
+      bName: '',
+      bAuthor: '',
+      bQuantity: 0
+    };
+    this.ModalTitle = 'Add Book';
+    this.ActivateAddEditBookComp = true;
+  }
+
+  closeClick() {
+    this.ActivateAddEditBookComp = false;
+    this.refreshBookList();
+  }
+
+  editClick(item: any) {
+    this.book = item;
+    this.ModalTitle = 'Edit Book';
+    this.ActivateAddEditBookComp = true;
+  }
+
+  deleteClick(item: any) {
+    if (confirm('Are you sure?')) {
+      try {
+        this.bookService.deleteBook(item.bId).subscribe(res => {
+          this.refreshBookList();
+          this.service.SnackBarSuccessMessage(JSON.stringify(res));
+        }, err => {
+          this.service.SnackBarErrorMessage(JSON.stringify(err.message));
+        });
+      } catch (error: any) {
+        this.service.SnackBarErrorMessage(JSON.stringify(error));
+      }
+    }
+  }
+
+  refreshBookList() {
+    try {
+      this.bookService.getBookList().subscribe((data) => {
+        data.length == 0 ? this.isEmpty = true : this.isEmpty = false;
+        this.BookList = new MatTableDataSource(data);
+        this.BookList.paginator = this.paginator;
+        this.BookList.sort = this.matSort;
+      }, err => {
+        this.service.SnackBarErrorMessage(JSON.stringify(err.message));
+      });
+    } catch (error: any) {
+      this.service.SnackBarErrorMessage(JSON.stringify(error));
+    }
+  }
+
+  filterData($event: any) {
+    this.BookList.filter = $event.target.value;
+  }
+}
