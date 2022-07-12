@@ -38,7 +38,7 @@ export class BookService {
   }
 
   getBooksToApprove(): Observable<issueDetails[]> {
-    return this.http.get<any>(this.APIUrl + '/Approve');
+    return this.http.get<any>('https://lmsapp-api.azurewebsites.net/api/Approve');
   }
 
   getIssueDetails(): Observable<issueDetails[]> {

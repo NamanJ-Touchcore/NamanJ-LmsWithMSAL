@@ -2284,3 +2284,27 @@ Books issued to a student fetched
 Log Entry : 2:12:57 PM
 Books fetched
 -------------------------------
+
+Log Entry : 11:32:16 PM
+Books fetched
+-------------------------------
+
+Log Entry : 11:32:17 PM
+Books fetched
+-------------------------------
+
+Log Entry : 11:33:11 PM
+Books fetched
+-------------------------------
+
+Log Entry : 11:33:14 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 11:33:31 PM
+Books fetched
+-------------------------------
+
+Log Entry : 11:33:33 PM
+Issue details fetched
+-------------------------------

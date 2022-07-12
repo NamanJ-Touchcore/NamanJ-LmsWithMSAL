@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit https://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAAWVYpz3Fky0S6Cwt5c4Iu0AAAAAACAAAAAAAQZgAAAAEAACAAAAAcGoxrIWXaAc8o3RcZkRUsN0YBe6745q9Qtj0KO9EWDwAAAAAOgAAAAAIAACAAAAD7/wtu0tQgfqS8rjqKKn1Viw/QEfOxn6IKOCYKLHzdeIAAAABuAAitnaOsmmqoNScHIK49Nwz0oWJF5RIMwLaBH+DPWzm2HZp/8eo5T6XTgPMrRc5RNPAK5Ljev4oG46j3zw8ezcC6dtsDhvCxjq7atGDHjLd660Ptj5Iqidpj3RUvNU5OjbK4Ju65hW9kMcmK6ofwUtjxBuq6Iv0lB3joi7gwRkAAAAAS6aNsmMXOqqaFL02diEk9pwuBr5843TkS8wqTW3Dx6VE8po2vdt1xYjPiYGTGEioqvtE6K9xLTCecrNpyMDZk</EncryptedPassword>
+    <History>True|2022-07-12T17:53:11.9282181Z;</History>
+  </PropertyGroup>
+  <ItemGroup>
+    <EFMigrations Include="LmsApi.Data.DataContext">
+      <Value>Data Source=tcp:lmsapi-authtestdbserver.database.windows.net,1433%3bInitial Catalog=LmsApi-AuthTest_db%3bUser Id=Naman1516%40lmsapi-authtestdbserver%3bPassword=Nmn%40Db11</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>
