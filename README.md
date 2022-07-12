@@ -1,5 +1,5 @@
 # NamanJ-LmsWithMSAL
- > Library Management System - Assessment project made in .NET core and Angular
+ > Library Management System
  
 ## Technologies implemented
  - ASP.NET 6.0 (with .NET Core 6.0)
