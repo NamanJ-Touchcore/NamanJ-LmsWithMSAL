@@ -11,10 +11,7 @@ import { ShowBooksStudentComponent } from './student/show-books/show-books.compo
 
 const routes: Routes = [
   {
-    path: 'home', component:HomeComponent, canActivate:[MsalGuard]
-  },
-  {
-    path: '', component:ProfileComponent, canActivate:[MsalGuard]
+    path: '', component:HomeComponent, canActivate:[MsalGuard]
   },
   {
     path:"admin/available-books", component: ShowBooksAdminComponent, canActivate: [MsalGuard]

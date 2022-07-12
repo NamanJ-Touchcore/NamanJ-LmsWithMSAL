@@ -8,6 +8,8 @@ import { profileDetails } from '../models/profileDetails';
 })
 export class ProfileService {
 
+  readonly APIUrl = 'https://localhost:7191/api';
+
   constructor(private http: HttpClient) { }
 
   getUserProfile(){
@@ -15,6 +17,6 @@ export class ProfileService {
   }
 
   getUserRole(){
-    return this.http.get('https://localhost:7191/api/User');
+    return this.http.get(this.APIUrl + '/User');
   }
 }

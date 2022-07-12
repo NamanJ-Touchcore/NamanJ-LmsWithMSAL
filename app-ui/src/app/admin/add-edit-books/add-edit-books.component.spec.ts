@@ -1,20 +1,20 @@
 import { ComponentFixture, TestBed } from '@angular/core/testing';
 
-import { AddEditBooksComponent } from './add-edit-books.component';
+import { AddEditBooksAdminComponent } from './add-edit-books.component';
 
-describe('AddEditBooksComponent', () => {
-  let component: AddEditBooksComponent;
-  let fixture: ComponentFixture<AddEditBooksComponent>;
+describe('AddEditBooksAdminComponent', () => {
+  let component: AddEditBooksAdminComponent;
+  let fixture: ComponentFixture<AddEditBooksAdminComponent>;
 
   beforeEach(async () => {
     await TestBed.configureTestingModule({
-      declarations: [ AddEditBooksComponent ]
+      declarations: [ AddEditBooksAdminComponent ]
     })
     .compileComponents();
   });
 
   beforeEach(() => {
-    fixture = TestBed.createComponent(AddEditBooksComponent);
+    fixture = TestBed.createComponent(AddEditBooksAdminComponent);
     component = fixture.componentInstance;
     fixture.detectChanges();
   });

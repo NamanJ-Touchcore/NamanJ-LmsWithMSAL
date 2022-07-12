@@ -47,6 +47,7 @@ export class AppComponent {
     }
   }
 
+
   logout() {
     this.authService.logoutRedirect({ postLogoutRedirectUri: environment.postLogoutUrl });
   }
