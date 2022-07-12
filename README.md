@@ -15,7 +15,7 @@
 Clone the repo
 
 ```
-git clone --depth https://github.com/Touchcore-Systems/NamanJ-LibraryManagementSystem.git
+git clone --depth https://github.com/NamanJ-Touchcore/NamanJ-LmsWithMSAL.git
 ```
 
 ### Server Setup
