@@ -5,7 +5,6 @@ import { BooksToApproveComponent } from './admin/books-to-approve/books-to-appro
 import { IssueDetailsComponent } from './admin/issue-details/issue-details.component';
 import { ShowBooksAdminComponent } from './admin/show-books/show-books.component';
 import { HomeComponent } from './home/home.component';
-import { ProfileComponent } from './profile/profile.component';
 import { MyBooksComponent } from './student/my-books/my-books.component';
 import { ShowBooksStudentComponent } from './student/show-books/show-books.component';
 

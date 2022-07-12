@@ -43,25 +43,20 @@ export class AddEditBooksAdminComponent implements OnInit {
   }
 
   updateBook() {
-    if (Number(this.BookQuantity) < 1) {
-      this.service.SnackBarErrorMessage("Quantity must be more than 0");
-    }
-    else {
-      var details: bookDetails = {
-        bId: parseInt(this.BookId),
-        bName: this.BookName,
-        bAuthor: this.BookAuthor,
-        bQuantity: parseInt(this.BookQuantity)
-      };
-      try {
-        this.bookService.updateBook(parseInt(this.BookId), details).subscribe((res) => {
-          this.service.SnackBarSuccessMessage(JSON.stringify(res));
-        }, err => {
-          this.service.SnackBarErrorMessage(JSON.stringify(err.message));
-        });
-      } catch (error: any) {
-        this.service.SnackBarErrorMessage(JSON.stringify(error));
-      }
+    var details: bookDetails = {
+      bId: parseInt(this.BookId),
+      bName: this.BookName,
+      bAuthor: this.BookAuthor,
+      bQuantity: parseInt(this.BookQuantity)
+    };
+    try {
+      this.bookService.updateBook(parseInt(this.BookId), details).subscribe((res) => {
+        this.service.SnackBarSuccessMessage(JSON.stringify(res));
+      }, err => {
+        this.service.SnackBarErrorMessage(JSON.stringify(err.message));
+      });
+    } catch (error: any) {
+      this.service.SnackBarErrorMessage(JSON.stringify(error));
     }
   }
 }

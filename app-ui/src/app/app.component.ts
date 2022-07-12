@@ -22,7 +22,8 @@ export class AppComponent {
     private authService: MsalService,
     private sharedService: SharedService,
     private profileService: ProfileService
-  ) { }
+  ) { 
+  }
 
   ngOnInit(): void {
     this.msalBroadCastService.inProgress$.pipe
@@ -30,8 +31,8 @@ export class AppComponent {
       .subscribe(x => {
         this.isUserLoggedIn = this.authService.instance.getAllAccounts().length > 0;
         this.sharedService.isUserLoggedIn = this.isUserLoggedIn;
+        this.isManager();
       });
-      this.isManager();
   }
 
   ngOnDestroy(): void {

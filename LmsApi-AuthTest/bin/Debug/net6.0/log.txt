@@ -1592,3 +1592,695 @@ Issue details fetched
 Log Entry : 10:39:14 AM
 Issue details fetched
 -------------------------------
+
+Log Entry : 11:55:45 AM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 11:55:48 AM
+Books fetched
+-------------------------------
+
+Log Entry : 11:55:48 AM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 11:55:48 AM
+Issue details fetched
+-------------------------------
+
+Log Entry : 11:55:50 AM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 11:55:50 AM
+Books fetched
+-------------------------------
+
+Log Entry : 11:55:53 AM
+Books fetched
+-------------------------------
+
+Log Entry : 11:55:54 AM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:01:36 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:01:38 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:02:09 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:02:29 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:03:26 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:03:35 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:03:36 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:03:37 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 12:03:38 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:03:41 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:04:00 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:05:36 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:06:17 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:06:20 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:08:13 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:08:16 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:08:28 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:08:48 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:10:05 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:10:15 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:10:17 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:10:20 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:10:21 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:10:25 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:10:27 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:11:10 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:11:41 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:11:48 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:12:05 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:23:13 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:30:57 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:31:00 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:31:17 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:38:29 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:38:34 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:38:37 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:39:00 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:40:24 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:40:27 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:40:28 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:40:39 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:40:50 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:40:52 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:41:00 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:41:24 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:41:30 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:42:10 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:42:14 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:42:43 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:42:47 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:42:54 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:42:59 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:43:02 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:43:39 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:43:42 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:43:52 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:43:55 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:01 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:03 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:05 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:18 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:21 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:33 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:44 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:44:48 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:45:25 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:45:30 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:48:02 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:48:20 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:48:28 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:48:31 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:49:17 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:49:44 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:49:48 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:49:55 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:49:57 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 12:50:03 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 12:51:14 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:51:15 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:51:19 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:51:20 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:51:21 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:52:31 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:52:31 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 12:52:35 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:52:35 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 12:53:20 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 12:54:39 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:54:45 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:54:52 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:54:56 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:22 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:57:22 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:23 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:24 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:24 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:24 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:57:25 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 12:57:25 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:25 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:28 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:28 PM
+Books fetched
+-------------------------------
+
+Log Entry : 12:57:28 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:02:21 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:03:08 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:03:49 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:03:49 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:03:53 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:03:53 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:04:33 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:04:33 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:04:42 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:04:42 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:04:47 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:04:47 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:04:48 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:04:48 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:04:53 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:04:53 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:04:54 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:04:54 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:04:57 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:04:57 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:05:03 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:05:03 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:05:12 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:05:13 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:05:16 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:05:16 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:05:18 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:05:18 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:07:58 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:08:02 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:08:06 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 1:08:08 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 1:08:19 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:08:26 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:08:29 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 1:08:33 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:08:36 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 1:08:37 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 1:08:44 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:08:48 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:08:50 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 1:08:51 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 1:08:52 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 1:08:55 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:09:01 PM
+Issue details fetched
+-------------------------------
+
+Log Entry : 1:09:02 PM
+Books to approve fetched
+-------------------------------
+
+Log Entry : 1:09:03 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:09:21 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:21:54 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:21:54 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:21:55 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:21:56 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:21:58 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:21:58 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:22:02 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:22:02 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:22:13 PM
+Books fetched
+-------------------------------
+
+Log Entry : 1:22:13 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:23:33 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 1:23:34 PM
+Books fetched
+-------------------------------
+
+Log Entry : 2:12:57 PM
+Books issued to a student fetched
+-------------------------------
+
+Log Entry : 2:12:57 PM
+Books fetched
+-------------------------------

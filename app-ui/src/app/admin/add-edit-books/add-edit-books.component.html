@@ -11,6 +11,7 @@
         <label>Book Quantity</label>
         <input type="text" class="form-control" [(ngModel)]="BookQuantity" placeholder="Enter Book Quantity">
     </div>
+
     <button (click)="addBook()" *ngIf="book.bId==0" class="btn btn-primary">Add</button>
     <button (click)="updateBook()" *ngIf="book.bId!=0" class="btn btn-primary"> Update</button>
 </div>
