@@ -2,9 +2,9 @@ export const environment = {
   production: true,
 
     // for msal
-    authClientId: 'bef4c05a-f512-4a55-bba6-b211321a4874',
-    authRedirectUrl: 'https://lmsappwithmsal.azurewebsites.net',
-    authAuthority: 'https://login.microsoftonline.com/56324411-9df3-48d6-845e-c7cf6fd3b3b0',
+    authClientId: '784e37cc-bdad-4b92-88c6-ecb18a4e792e',
+    authRedirectUrl: 'https://lmsapp-ui.azurewebsites.net/',
+    authAuthority: 'https://login.microsoftonline.com/66ef5926-739b-495d-a8f5-ef4fc8f1c936',
     cacheLocation: 'localStorage',
     authStateInCookie: false,
     authScope: 'user.read',
@@ -12,5 +12,5 @@ export const environment = {
     graphUrl: 'https://graph.microsoft.com/v1.0/me',
     graphPicUrl: 'https://graph.microsoft.com/v1.0/me/photo/$value',
   
-    postLogoutUrl: 'https://lmsappwithmsal.azurewebsites.net'
+    postLogoutUrl: 'https://lmsapp-ui.azurewebsites.net/'
 };

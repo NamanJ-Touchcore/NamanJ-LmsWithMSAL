@@ -26,7 +26,7 @@ namespace LmsApi.Controllers
         }
 
         // GET: api/Book
-        [HttpGet, Authorize(Roles = "Manager")]
+        [HttpGet, Authorize(Roles = "Manager, Student")]
         public async Task<ActionResult<IEnumerable<BookDetails>>> GetBooks()
         {
             try

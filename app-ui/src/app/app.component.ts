@@ -12,6 +12,7 @@ import { SharedService } from './services/shared.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
+  title = 'app-ui';
   isUserLoggedIn: boolean = false;
   isUserManager!: any;
   private readonly _destroy = new Subject<void>();

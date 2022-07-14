@@ -84,3 +84,9 @@ C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\LmsApi-AuthTest.pdb
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\LmsApi-AuthTest.genruntimeconfig.cache
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\ref\LmsApi-AuthTest.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\bin\Release\net6.0\Microsoft.Graph.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\bin\Release\net6.0\Microsoft.Graph.Core.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\bin\Release\net6.0\Microsoft.Identity.Web.MicrosoftGraph.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\bin\Release\net6.0\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\bin\Release\net6.0\Microsoft.Identity.Web.UI.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\bin\Release\net6.0\System.Memory.Data.dll

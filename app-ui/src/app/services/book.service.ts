@@ -9,7 +9,7 @@ import { issueDetails } from '../models/issueDetails';
   providedIn: 'root'
 })
 export class BookService {
-  readonly APIUrl = 'https://localhost:7191/api';
+  readonly APIUrl = 'https://lmsapp-api-apim.azure-api.net/api';
 
   constructor(private http: HttpClient) { }
 

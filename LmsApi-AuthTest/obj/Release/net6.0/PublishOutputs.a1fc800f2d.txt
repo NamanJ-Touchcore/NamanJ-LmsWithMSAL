@@ -18,12 +18,17 @@ C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.EntityFrameworkCore.SqlServer.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Graph.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Graph.Core.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Client.Extensions.Msal.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Web.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Web.Certificate.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Web.Certificateless.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Web.MicrosoftGraph.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Web.TokenCache.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Web.UI.Views.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.Identity.Web.UI.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Abstractions.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
@@ -41,6 +46,7 @@ C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\System.Configuration.ConfigurationManager.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\System.Drawing.Common.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\System.Memory.Data.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\System.Runtime.Caching.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\System.Security.Cryptography.ProtectedData.dll
 C:\Users\ASUS\Desktop\LmsApp-Msal\NamanJ-LmsWithMSAL\LmsApi-AuthTest\obj\Release\net6.0\PubTmp\Out\System.Security.Permissions.dll

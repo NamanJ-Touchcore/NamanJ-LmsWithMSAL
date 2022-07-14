@@ -6,6 +6,12 @@
       "type": "mssql.azure",
       "connectionId": "ConnectionStrings:DefaultConnection",
       "dynamicId": null
+    },
+    "identityapp1": {
+      "secretStore": null,
+      "resourceId": null,
+      "type": "identityapp.default",
+      "connectionId": null
     }
   }
 }
