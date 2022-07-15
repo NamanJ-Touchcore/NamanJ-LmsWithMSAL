@@ -96,9 +96,9 @@ import { FormsModule, ReactiveFormsModule } from '@angular/forms';
         protectedResourceMap: new Map(
           [
             [environment.graphUrl, [environment.authScope]],
-            ['localhost', ['api://1e6ef937-5fcd-42bf-a0f3-5c349158854b/api.scope']],
-            ['https://lmsapp-api-apim.azure-api.net',['api://1e6ef937-5fcd-42bf-a0f3-5c349158854b/api.scope']],
-            ['https://lmsapp-api.azurewebsites.net', ['api://1e6ef937-5fcd-42bf-a0f3-5c349158854b/api.scope']]
+            // ['localhost', ['api://1e6ef937-5fcd-42bf-a0f3-5c349158854b/api.scope']],
+            ['https://lmsapp-api-apim.azure-api.net',['api://98af4426-d1e0-4e8b-a679-048dd3f0b7ba/api.scope']],
+            ['https://lmsapp-api.azurewebsites.net', ['api://98af4426-d1e0-4e8b-a679-048dd3f0b7ba/api.scope']],
           ]
         )
       }
